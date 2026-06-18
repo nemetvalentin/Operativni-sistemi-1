@@ -1,1 +1,1 @@
-# Operativni-sistemi-1
+Mobilni uređaji su postali jedan od najvažnijih oblika savremene informacione tehnologije. Pametni telefoni, tableti, pametni satovi i drugi prenosivi uređaji koriste se za komunikaciju, pristup internetu, rad sa multimedijalnim sadržajima, elektronsko plaćanje, navigaciju, obrazovanje, poslovanje i zabavu. Njihov rad ne bi bio moguć bez mobilnih operativnih sistema, koji predstavljaju osnovni softverski sloj između hardvera uređaja, aplikacija i korisnika.
